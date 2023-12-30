@@ -1,4 +1,4 @@
-#include "func.h"
+#include "include/func.h"
 #include <iostream>
 
 using std::cout;
