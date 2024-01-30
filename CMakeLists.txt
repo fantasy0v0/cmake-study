@@ -11,5 +11,5 @@ message(STATUS "This is CMAKE_INSTALL_PREFIX " ${CMAKE_INSTALL_PREFIX})
 
 # add_executable(hello ${SRC_LIST})
 # 添加子目录
-add_subdirectory(src bin)
-add_subdirectory(lib lib/bin)
+add_subdirectory(src)
+add_subdirectory(lib)
